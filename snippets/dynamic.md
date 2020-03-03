@@ -1,4 +1,6 @@
-### Call dynamically a method
+# Dynamic
+
+## Call dynamically a method
 
 Structure
 
@@ -10,7 +12,7 @@ getattr(obj, "func_name")()
 getattr(obj, "func_name")(param1, param2)
 ```
 
-Examples
+Example
 
 ```python
 >>> class Printer:
