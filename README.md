@@ -1,3 +1,3 @@
 # Python Tour
 
-Python Version: Python 3.7.5
+Python Version: Python 3.7.7
