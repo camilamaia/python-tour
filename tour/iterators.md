@@ -579,6 +579,7 @@ for number in counter:
 ## More content
 
 - https://docs.python.org/3/c-api/iterator.html
+- https://www.python.org/dev/peps/pep-0234/
 - https://anandology.com/python-practice-book/iterators.html#iterators
 - https://www.w3schools.com/python/python_iterators.asp
 - https://www.programiz.com/python-programming/iterator
